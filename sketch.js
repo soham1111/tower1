@@ -65,7 +65,7 @@ function setup() {
 
 }
 function draw() {
-  background(56,44,44); 
+  background(233, 180, 156); 
  
   //Engine.update(engine);
   //text(mouseX + ',' + mouseY, 10, 15);
